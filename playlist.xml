@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+	<trackList>
+
+		<track>
+			<title> </title>
+			<location>images/img_menu01.jpg</location>
+			<info> </info>
+		</track>
+
+		<track>
+			<title> </title>
+			<creator> </creator>
+			<location>images/img_menu02.jpg</location>
+			<info> </info>
+		</track>
+
+		<track>
+			<title> </title>
+			<creator> </creator>
+			<location>images/img_menu03.jpg</location>
+			<info> </info>
+		</track>
+		<track>
+			<title> </title>
+			<creator> </creator>
+			<location>images/img_menu04.jpg</location>
+			<info> </info>
+		</track>
+		<track>
+			<title> </title>
+			<creator> </creator>
+			<location>images/img_menu05.jpg</location>
+			<info> </info>
+		</track>
+		<track>
+			<title> </title>
+			<location>images/img_menu06.jpg</location>
+			<info> </info>
+		</track>
+
+		<track>
+			<title> </title>
+			<creator> </creator>
+			<location>images/img_menu07.jpg</location>
+			<info> </info>
+		</track>
+
+		<track>
+			<title> </title>
+			<creator> </creator>
+			<location>images/img_menu08.jpg</location>
+			<info> </info>
+		</track>
+		<track>
+			<title> </title>
+			<creator> </creator>
+			<location>images/img_menu09.jpg</location>
+			<info> </info>
+		</track>
+		<track>
+			<title> </title>
+			<creator> </creator>
+			<location>images/img_menu10.jpg</location>
+			<info> </info>
+		</track>
+
+	</trackList>
+</playlist>
